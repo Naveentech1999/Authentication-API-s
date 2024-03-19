@@ -1,0 +1,24 @@
+{
+  "name": "auth-api",
+  "version": "1.0.0",
+  "description": "authentication api's using expree.js and mongodb as database",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "Naveen Bupati",
+  "license": "ISC",
+  "dependencies": {
+    "-": "^0.0.1",
+    "bcrypt": "^5.1.1",
+    "body-parser": "^1.20.2",
+    "D": "^1.0.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.18.3",
+    "jsonwebtoken": "^9.0.2",
+    "mongodb": "^6.5.0",
+    "mongoose": "^8.2.2",
+    "nodemon": "^3.1.0"
+  }
+}
