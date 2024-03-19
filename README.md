@@ -1,4 +1,5 @@
-Express.js Authentication APIs with MongoDB
+                                                            Express.js Authentication APIs with MongoDB
+
 This repository contains a sample implementation of authentication APIs using Express.js and MongoDB, featuring user signup, login, user details retrieval, and protected routes using JWT tokens.
 
 Prerequisites
